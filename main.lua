@@ -37,7 +37,7 @@ end)
 
 
 --[[
-Citizen.Wait(8000)
+-- Example Usage
 exports['qubit-subtitle']:sendSubtitle(
     "COPPER MAHONE", -- Speaker Name
     "#ffd900", -- Speaker Color
